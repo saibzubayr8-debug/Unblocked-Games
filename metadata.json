@@ -1,0 +1,6 @@
+{
+  "name": "Nova Unblocked Games",
+  "description": "Fast, sleek, and unblocked arcade gaming hub featuring classic playable games, stealth tab cloaking, panic mode, and high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
